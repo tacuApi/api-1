@@ -3,7 +3,6 @@ ChaoEX科技API中文文档
 # 前言
 
 本文为链星科技官方提供的程序化交易接口API的说明文档，我们希望通过该文档的说明，开发者可用自行实现对于平台API申请、校验、调用、调试等功能，最终在链星科技的平台上实现程序化交易。
-
 # Platform Url
 
 * platform Url:https://www.chaoex.info
